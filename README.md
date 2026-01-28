@@ -53,10 +53,6 @@ La “verificación” consiste en ejecutar **todas las celdas sin errores** y c
 - Se renderizan las gráficas solicitadas.
 - Se imprimen pérdidas/parametros finales y se observa convergencia.
 
-## Despliegue
-No hay despliegue de modelos (endpoints) ni MLOps.\
-El requisito de nube es **solo ejecución** en AWS SageMaker.
-
 ## Tecnologías usadas
 - Python
 - NumPy
@@ -67,5 +63,5 @@ El requisito de nube es **solo ejecución** en AWS SageMaker.
 - Angel Cuervo
 
 ## Licencia
-Uso académico. Si necesitas una licencia formal (MIT/Apache-2.0), indícalo y la añadimos.
+Uso academico
 
